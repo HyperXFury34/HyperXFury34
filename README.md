@@ -3,7 +3,7 @@
 
 Software Enginner, currently doing a specialization in data engineering
 <br>
-📍Universidad de Antioquia, COL
+📍Universidad de Antioquia, Colombia
 
 
 
